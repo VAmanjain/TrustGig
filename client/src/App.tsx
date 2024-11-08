@@ -2,7 +2,7 @@ import { Route, Routes } from "react-router-dom";
 import LandingPage1 from "./pages/Landing1";
 import GigWorkerDashboard from "./pages/GigDashboard";
 import ClientDashboard from "./pages/ClinetDashboard";
-import JobExplore from "./pages/Explore1";
+import JobExplore from "./pages/Explore";
 import { GigWorkerProfile } from "./pages/GigWorkProfile";
 import JobCreate from "./pages/Form";
 import JobPreview from "./pages/JobPreview";
